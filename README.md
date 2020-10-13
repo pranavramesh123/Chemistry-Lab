@@ -1,5 +1,5 @@
 # Chemistry-Lab
-Welcome to Chemistry Lab, a 3D first-person serious game, aiming to teach the player about the science of chemistry through an immersive and entertaining experience.
+Welcome to Chemistry Lab, a 3D first-person serious game, aiming to teach the player about the science of chemistry through an immersive and entertaining experience
 
 # Controls 
 Use the WASD keys to move through the 3d scene. Use the mouse to rotate your camera according to the specified direction of the mouse position.
